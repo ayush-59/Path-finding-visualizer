@@ -1,4 +1,4 @@
-# A_star-Path-Finding-Visualizer
+# Path-Finding-Visualizer
 Path Finding visualizer using A* search Algorithm using pygame.
 It is a visualizing tool that shows how the A* algorithm finds the path.
 
@@ -11,7 +11,10 @@ If both Start and Goal set           - It will create walls.
 
 RIGHT_MOUSE_BUTTON: Remove start, goal, walls.
 
-SPACEBAR: Runs the algorithm and finds path from Start to Goal.
+1: Runs A* algorithm.
+2: Runs Bidirectional A* algorithm.
+3: Runs Djikstraz algorithm.
+4: Runs DFS algorithm.
 
 R: Resets the window.
 
@@ -27,7 +30,7 @@ Set Start and Goal and Create Walls-
 ![screenshot](https://user-images.githubusercontent.com/60854318/128625439-92facff0-85e7-4a83-a3ac-bb4c90d47373.png)
 
 
-Watch A* Algorithm in Action-
+Watch Algorithm in Action-
 
 ![screenshot](https://user-images.githubusercontent.com/60854318/128625480-9eaa05fb-c1dd-42ff-9fc6-229136ea147d.png)
 
